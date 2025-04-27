@@ -64,6 +64,5 @@ Config.Weapons = {
   [GetHashKey('WEAPON_X23')] = {recoil = 0.7, shake = 0.15, damage = 0.25},
   [GetHashKey('WEAPON_x26')] = {recoil = 0.7, shake = 0.15, damage = 0.25},
   [GetHashKey('WEAPON_GLOCK22')] = {recoil = 0.7, shake = 0.15, damage = 0.25},
-  [GetHashKey('WEAPON_DILDO')] = {recoil = 0.0, shake = 0.0, damage = 0.0},
   [GetHashKey('WEAPON_BANNER')] = {recoil = 0.0, shake = 0.0, damage = 0.0}
 }
